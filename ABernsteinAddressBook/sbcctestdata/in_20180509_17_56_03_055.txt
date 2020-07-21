@@ -1,0 +1,6 @@
+lastName,firstName,email,phoneNumber
+ROSS,EDDIE,ROSSwellsfargo.com,8007819417
+PEREZ,MANIE,PEREZreunion.com,8008324292
+JONES,TYRA,JONESyellowpages.com,8004422972
+GRIFFIN,KARY,GRIFFINoverstock.com,8001000473
+HILL,ELWOOD,HILLallrecipes.com,8007945333
